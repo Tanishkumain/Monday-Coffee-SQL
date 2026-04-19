@@ -1,7 +1,6 @@
 # Monday-Coffee-SQL
 
-!\[Company Logo](https://github.com/Tanishkumain/Monday-Coffee-SQL/blob/1c2e8d08536db9257b61beb6777d72a39e818791/MondayCoffee-Cover.png)
-
+![Image Alt](https://github.com/Tanishkumain/Monday-Coffee-SQL/blob/1c2e8d08536db9257b61beb6777d72a39e818791/MondayCoffee-Cover.png)
 ## Objective
 
 The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
