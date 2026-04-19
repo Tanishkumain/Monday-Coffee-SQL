@@ -5,6 +5,14 @@
 
 The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
 
+## Data
+
+The dataset contains information on:
+Sales Transactions – Records of all coffee sales.
+Cities – Information on potential and existing sales locations.
+Customers – Demographic and behavioral data of consumers.
+Products – Details on coffee types and pricing.
+
 ## Key Questions
 
 1. **Coffee Consumers Count**  
