@@ -8,10 +8,7 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 ## Data
 
 The dataset contains information on:
-**Sales Transactions – Records of all coffee sales.**
-**Cities – Information on potential and existing sales locations.**
-**Customers – Demographic and behavioral data of consumers.**
-**Products – Details on coffee types and pricing.**
+* Sales Transactions – Records of all coffee sales. *Cities – Information on potential and existing sales locations. *Customers – Demographic and behavioral data of consumers. *Products – Details on coffee types and pricing.
 
 ## Key Questions
 
